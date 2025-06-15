@@ -1,4 +1,4 @@
-import Note from './Note.jsx';
+import Note from './note.jsx';
 
 function NoteList({ notes, onEdit, onDelete }) {
   if (!notes.length)
