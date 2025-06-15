@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import NoteList from "components/NoteList.jsx";
+import NoteList from "./components/NoteList.jsx";
 import { v4 as uuidv4 } from "uuid";
 
 function App() {
